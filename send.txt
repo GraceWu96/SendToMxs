@@ -1,2 +1,8 @@
 This is a master message which whw send to msx.
 This is a dev message which whw send to msx.
+
+This is a dev message which whw send to msx.
+Received!
+This is a dev message which msx send to whw.
+
+Manual operation!
