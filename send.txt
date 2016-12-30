@@ -1,1 +1,2 @@
+This is a master message which whw send to msx.
 This is a dev message which whw send to msx.
